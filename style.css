@@ -1,0 +1,42 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    line-height: 1;
+    background-color:lightseagreen;
+   margin-top:0;
+    width: 100%;
+   font-size: large;
+   box-shadow: 10px 10px 30px 20px lightsalmon;
+}
+
+#start{
+    font-size: medium;
+
+}
+
+#copy_right_footer{
+    margin-bottom: 0;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: lightseagreen;
+    font-size: medium;
+    line-height: 2.5;
+    box-shadow: 10px 10px 30px 40px lightsalmon;
+    
+}
+
+input{
+    width: 300px;
+    height: 35px;
+}
+
+canvas{
+    border-style: ridge;
+    border-color: chartreuse;
+    border-width: 5px ;
+    border-radius: 3px;
+}
